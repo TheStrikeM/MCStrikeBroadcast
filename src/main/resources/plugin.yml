@@ -1,0 +1,10 @@
+name: StrikeBroadcast
+version: '${project.version}'
+main: me.thestrikem.strikebroadcast.Main
+api-version: 1.16
+authors: [ thestrikem ]
+description: some desc
+website: https://github.com/thestrikem/
+commands:
+  bc:
+    description: Some desc
